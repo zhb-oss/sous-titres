@@ -62,6 +62,7 @@ Il est fortement déconseillé de créer des sous-titres défilant par mot à mo
 - Subtitle WorkShop
 - [VisualSubSynchro](https://www.visualsubsync.org/fr/home)
 - [CapCut](https://www.capcut.com/) (EN)
+- [GStory](https://fr.gstory.ai/) : Montage vidéo, génération d'images
 
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
